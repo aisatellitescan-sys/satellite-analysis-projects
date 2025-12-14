@@ -6,7 +6,7 @@ Available for remote opportunities.
 
 ## Contact
 - Phone: +447453414763
-- Email: aisatellitescan@gmail.com
+- Email: AISatelliteScan@gmail.com
 
 
 ## Remote Sensing Skills
