@@ -1,11 +1,11 @@
 # satellite-analysis-projects
 Collection of remote sensing reports for mineral detection
 ## About Me
-Self-taught Remote Sensing expert with 15+ years of hands-on experience in satellite image analysis for mineral exploration, archaeology, and hydrocarbon detection. Downloaded and processed thousands of satellite images from reliable sources to derive innovative insights. Proficient in ENVI, ArcGIS, QGIS, SNAP, and PCI Geomatica. Holding a Bachelor's in Civil Engineering (2020).
-Available for remote opportunities.
+Self-taught Remote Sensing expert with 15+ years of hands-on experience in satellite image analysis for mineral exploration, archaeology, and hydrocarbon detection. Downloaded and processed thousands of satellite images from reliable sources to derive innovative insights. Proficient in ENVI, ArcGIS, QGIS, SNAP, and PCI Geomatica. 
 
 ## Contact
-- Phone: +447453414763
+- Phone: +16468143863
+- Email: Satellitessystem@gmail.com
 - Email: AISatelliteScan@gmail.com
 
 
@@ -35,7 +35,6 @@ Available for remote opportunities.
 - Analyzed over 1,000 satellite images, creating detailed reports for mineral-rich regions.
 - Developed techniques improving accuracy in hydrocarbon and archaeological detection.
 
-## Resume / CV
-Download my full CV for more details: [Download CV 2.pdf](CV%202.pdf)
+
 
 For collaborations or questions, feel free to contact me!
